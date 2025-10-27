@@ -1,5 +1,3 @@
-# backend-development-workspace
-
 # Isaac's Digital Notebook
 
 **Name:** Isaac Stanek 
